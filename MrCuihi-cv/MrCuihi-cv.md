@@ -6,7 +6,7 @@
 
 
 <div contenteditable="plaintext-only"><font face="黑体" size=3></div>
-<table><tr><td bgcolor=#D1EEEE><font face="黑体" size=3>### 教育经历</font></tr></td></table>
+<table><tr><td bgcolor=#D1EEEE><font face="黑体" size=3>教育经历</font></tr></td></table>
 
 <font size=2>2016年9月 - 至今 本科学习</font>
 
