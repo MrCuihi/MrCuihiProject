@@ -1,2 +1,2 @@
 # MrCuihiProject
-Including personal resumes, and major project research profiles
+Including personal resumes「omit information about personal privacy」, and major project research profiles
