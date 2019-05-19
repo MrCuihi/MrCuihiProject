@@ -35,7 +35,7 @@
 
 <font size=2>**专业课程作业github仓库:**</font>
 
-<font size=2>2017年  3月 - 2017年  6月   [数据结构A](https://github.com/MrCuihi/ds/tree/master/2017-1/Mrcui)<br>2018年  9月 - 2018年12月   [网络安全](https://github.com/CUCCS/2018-NS-Public-MrCuihi/pulls) <br>2019年  3月 - 2019年  5月   [Linux系统与网络管理](https://github.com/CUCCS/linux-2019-MrCuihi/pulls)</font>
+<font size=2>2017年  3月 - 2017年  6月   [数据结构A](https://github.com/MrCuihi/ds/tree/master/2017-1/Mrcui)<br>2018年  9月 - 2018年12月   [网络安全](https://github.com/CUCCS/2018-NS-Public-MrCuihi/pulls) <br>2019年  3月 - 2019年  5月   [Linux系统与网络管理](https://github.com/CUCCS/linux-2019-MrCuihi/pulls)</font>
 
 <div contenteditable="plaintext-only"><font face="黑体" size=3></div><table><tr><td bgcolor=#D1EEEE><font face="黑体" size=3>荣誉奖励</font></tr></td></table>
 
