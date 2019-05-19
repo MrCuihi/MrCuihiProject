@@ -2,7 +2,7 @@
 
 ------
 
-<font size=2>性别：女 <br>邮箱：13011078533@163.com</font>
+<font size=2>性别:女 <br>邮箱:13011078533@163.com</font>
 
 
 <div contenteditable="plaintext-only"><font face="黑体" size=3></div>
@@ -15,25 +15,25 @@
 
 <font size=2>**专业排名:** 大一  6/29，大二 11/29 </font>
 
-<font size=2>**课程平均分：**86</font>
+<font size=2>**课程平均分:**86</font>
 
-<font size=2>**平均必修学分绩点：**3.6</font>
+<font size=2>**平均必修学分绩点:**3.6</font>
 
 <font size=2>**专业必修课**</font>：
 
-<font size=2> **概率论与数理统计A：**95分，高等数学A ：87分，**信息安全数学基础：**91分，**数据结构A：**90分<br>逻辑与计算机设计基础：88分，**数字内容安全基础：**94分，逆向工程：90分，**密码学：**83分<br>**数据库原理与应用：**90分，**计算机组成：**96分，**操作系统：**91分，网络安全：83分<br>编译原理：84分，**数字内容安全：**92分，**移动互联网安全：**95分</font>
+<font size=2> **概率论与数理统计A:**95分，高等数学A:87分，**信息安全数学基础:**91分，**数据结构A:**90分<br>逻辑与计算机设计基础:88分，**数字内容安全基础:**94分，逆向工程:90分，**密码学:**83分<br>**数据库原理与应用:**90分，**计算机组成:**96分，**操作系统:**91分，网络安全:83分<br>编译原理:84分，**数字内容安全:**92分，**移动互联网安全:**95分</font>
 
 <font size=2>**CET4:** 522，**CET6:** 497</font>
 
-<font size=2>**项目科研经历：**</font>
+<font size=2>**项目科研经历:**</font>
 
 <font size=2>2018年  9月 - 2019年  4月  大学生创新项目：《个人信息泄露调研与预防对策研究》（介绍：[附件1](https://github.com/MrCuihi/MrCuihiProject/blob/master/%E9%99%84%E4%BB%B6-%E9%A1%B9%E7%9B%AE%E7%A7%91%E7%A0%94%E4%BB%8B%E7%BB%8D/%E3%80%8A%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E8%B0%83%E7%A0%94%E4%B8%8E%E9%A2%84%E9%98%B2%E5%AF%B9%E7%AD%96%E7%A0%94%E7%A9%B6%E3%80%8B%E4%BB%8B%E7%BB%8D.pdf)）<br>2018年12月 - 2019年  5月  辅修新闻专业毕业论文：《吴亦凡新专辑欧美上榜事件中新浪微博的“无限制”引导研究》（介绍：[附件2](https://github.com/MrCuihi/MrCuihiProject/blob/master/%E9%99%84%E4%BB%B6-%E9%A1%B9%E7%9B%AE%E7%A7%91%E7%A0%94%E4%BB%8B%E7%BB%8D/%E3%80%8A%E5%90%B4%E4%BA%A6%E5%87%A1%E6%96%B0%E4%B8%93%E8%BE%91%E6%AC%A7%E7%BE%8E%E4%B8%8A%E6%A6%9C%E4%BA%8B%E4%BB%B6%E4%B8%AD%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%9A%84%E2%80%9C%E6%97%A0%E9%99%90%E5%88%B6%E2%80%9D%E5%BC%95%E5%AF%BC%E7%A0%94%E7%A9%B6%E3%80%8B%E4%BB%8B%E7%BB%8D.pdf)）<br>2018年12月                          数字内容安全课程项目：[《基于宿主图像差值矩阵的可逆信息隐藏算法》python代码实现与性能分析](https://github.com/MrCuihi/Digital-Content-Security---Information-Hiding)</font>
 
-<font size=2>**项目系统开发：**</font>
+<font size=2>**项目系统开发:**</font>
 
 <font size=2>2017年  7月（大一）  个人C语言，python分别实现[推箱子游戏](https://github.com/MrCuihi/summer_semester)<br>2018年  7月（大二） 《从密码学理论到密码学的工程实践与应用》<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;小组开发[基于网页的用户注册与登录、文件上传加密与数字签名、加密文件下载与解密系统](https://github.com/MrCuihi/threebears)（介绍：[附件3](https://github.com/MrCuihi/MrCuihiProject/blob/master/%E9%99%84%E4%BB%B6-%E9%A1%B9%E7%9B%AE%E7%A7%91%E7%A0%94%E4%BB%8B%E7%BB%8D/%E4%BB%8E%E5%AF%86%E7%A0%81%E5%AD%A6%E7%90%86%E8%AE%BA%E5%88%B0%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%BA%94%E7%94%A8.pdf)）<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;本人在此次3人小组系统开发中承担后台服务器搭建、安全性实现、接口处理等**超过65%**的任务量与功能实现</font>                    
 
-<font size=2>**专业课程作业github仓库**</font>：
+<font size=2>**专业课程作业github仓库:**</font>：
 
 <font size=2>2017年  9月 - 2017年12月   [数据结构A](https://github.com/MrCuihi/ds/tree/master/2017-1/Mrcui)<br>2018年  9月 - 2018年12月   [网络安全](https://github.com/CUCCS/2018-NS-Public-MrCuihi/pulls) <br>2019年  3月 - 2019年  5月   [Linux系统与网络管理](https://github.com/CUCCS/linux-2019-MrCuihi/pulls)</font>
 
