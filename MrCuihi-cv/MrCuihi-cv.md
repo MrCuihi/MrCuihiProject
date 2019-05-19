@@ -31,7 +31,7 @@
 
 <font size=2>**项目系统开发:**</font>
 
-<font size=2>2017年  7月（大一）   个人C语言，python分别实现[推箱子游戏](https://github.com/MrCuihi/summer_semester)<br>2018年  7月（大二）《从密码学理论到密码学的工程实践与应用》<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;小组开发[基于网页的用户注册与登录、文件上传加密与数字签名、加密文件下载与解密系统](https://github.com/MrCuihi/threebears)（介绍：[附件3](https://github.com/MrCuihi/MrCuihiProject/blob/master/%E9%99%84%E4%BB%B6-%E9%A1%B9%E7%9B%AE%E7%A7%91%E7%A0%94%E4%BB%8B%E7%BB%8D/%E4%BB%8E%E5%AF%86%E7%A0%81%E5%AD%A6%E7%90%86%E8%AE%BA%E5%88%B0%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%BA%94%E7%94%A8.pdf))本人在此次3人小组系统开发中承担了包括后台服务器搭建、安全性实现、数据库操作、接口处理、前端html页面编写等 **超过65%** 的功能实现、任务工作量</font>                    
+<font size=2>2017年  7月（大一）   个人C语言，python分别实现[推箱子游戏](https://github.com/MrCuihi/summer_semester)<br>2018年  7月（大二）《从密码学理论到密码学的工程实践与应用》<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;小组开发[基于网页的用户注册与登录、文件上传加密与数字签名、加密文件下载与解密系统](https://github.com/MrCuihi/threebears)（介绍：[附件3](https://github.com/MrCuihi/MrCuihiProject/blob/master/%E9%99%84%E4%BB%B6-%E9%A1%B9%E7%9B%AE%E7%A7%91%E7%A0%94%E4%BB%8B%E7%BB%8D/%E4%BB%8E%E5%AF%86%E7%A0%81%E5%AD%A6%E7%90%86%E8%AE%BA%E5%88%B0%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%BA%94%E7%94%A8.pdf))本人在此次3人小组系统开发中承担了包括后台服务器搭建、安全性实现、数据库操作、接口处理、前端html页面编写等 **超过65%** 的功能实现、任务工作量</font>                    
 
 <font size=2>**专业课程作业github仓库:**</font>
 
