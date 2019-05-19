@@ -13,7 +13,7 @@
 <div contenteditable="plaintext-only"><font face="黑体" size=3></div>
 <table><tr><td bgcolor=#D1EEEE><font face="黑体" size=3>学术项目</font></tr></td></table>
 
-<font size=2>**专业排名:** 大一 6/29，大二 11/29 </font>
+<font size=2>**专业综测排名:** 大一 6/29，大二 11/29 </font>
 
 <font size=2>**课程平均分:** 86</font>
 
